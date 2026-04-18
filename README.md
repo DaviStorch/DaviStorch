@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Davi Storch, tenho 18 anos, e sou natural do Espirito Santo.
-Conclui o ensino médio e atualmente estou cursando ciência da computação na multivix. Gosto muito de tecnologia e de aprender coisas novas.
+Conclui o ensino médio e atualmente estou cursando ciência da computação na multivix. Gosto muito de tecnologia e estou disposto a aprender coisas novas.
 
 ---
 
