@@ -91,7 +91,7 @@ Conclui o ensino médio e atualmente estou cursando ciência da computação na 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="144" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviStorch&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
