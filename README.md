@@ -43,6 +43,14 @@ Conclui o ensino médio e atualmente estou cursando ciência da computação na 
 />
 <img 
     align="left" 
+    alt="DotNet" 
+    title="DotNet"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
