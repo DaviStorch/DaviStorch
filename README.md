@@ -102,14 +102,13 @@ Conclui o ensino médio e atualmente estou cursando ciência da computação na 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DaviStorch&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-  />
+    src = "https://github-stats-extended.vercel.app/api?username=DaviStorch&show_icons=true&include_all_commits=true&theme=tokyonight"
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviStorch&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="195" 
+      src = "https://github-stats-extended.vercel.app/api/top-langs?username=DaviStorch&layout=donut&langs_count=4&theme=tokyonight"
   />
 
 </p>
