@@ -97,6 +97,18 @@ Conclui o ensino médio e atualmente estou cursando ciência da computação na 
 ### 📊 Estatísticas
 
 <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src = "https://github-stats-extended.vercel.app/api?username=DaviStorch&show_icons=true&include_all_commits=true&theme=tokyonight"
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="195" 
+      src = "https://github-stats-extended.vercel.app/api/top-langs?username=DaviStorch&layout=donut&langs_count=5&theme=tokyonight"
+  />
 
 </p>
